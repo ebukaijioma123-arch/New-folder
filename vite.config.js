@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/NEW FOLDER/',
+  // No base needed for Vercel
 })
