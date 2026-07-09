@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { ABOUT_STATS, ABOUT_PARAGRAPHS, PERSONAL_INFO } from '../constants/data';
 import { fadeUp, staggerContainer } from '../hooks/useScrollAnimation';
-import Myself from '../assets/Myself.jpeg';
+import Osas from "../assets/Osas.jpeg";
 
 function About() {
   return (
